@@ -1,0 +1,7 @@
+requests
+inflect
+emoji
+pyfiglet
+pytest
+tabulate
+Pillow
